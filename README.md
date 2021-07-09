@@ -10,6 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Olives! I was able to eat a whole jar by myself as a kid. 
 
-    
+![Metrics](https://metrics.lecoq.io/Charleebrown?template=classic&introduction=1&introduction.title=true&config.timezone=America%2FChicago)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharleeBrown)](https://github.com/anuraghazra/github-readme-stats)
 
