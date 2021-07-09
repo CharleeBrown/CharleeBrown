@@ -9,6 +9,8 @@
 - 📫 How to reach me: Email - Charleebrown22@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Olives! I was able to eat a whole jar by myself as a kid. 
+
+
 [![Metrics](https://github.com/CharleeBrown/CharleeBrown/actions/workflows/MetricCreate.yml/badge.svg)](https://github.com/CharleeBrown/CharleeBrown/actions/workflows/MetricCreate.yml)
 
 ![Metrics](https://metrics.lecoq.io/CharleeBrown?template=classic&config.timezone=America%2FChicago)
