@@ -10,14 +10,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Olives! I was able to eat a whole jar by myself as a kid. 
 
-- uses: lowlighter/metrics@latest
-  with:
-    # ... other options
-    base: header, repositories                     # Only display "header" and "repositories" sections
-    repositories: 100                              # Query only last 100 repositories
-    repositories_forks: no                         # Don't include forks
-    repositories_affiliations: owner, collaborator # Display only repositories where user is owner or collaborator
-    repositories_skipped: lowlighter/lowlighter    # Exclude automatically "lowlighter/lowlighter" repository from plugins allowing a skip list
+[<img align="left" width="400" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">](https://github.com/CharleeBrown/metrics)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=D00hlkW0u3U)
+[<img align="right" width="400" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.anilist.svg">](https://github.com/lowlighter/metrics)
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharleeBrown)](https://github.com/anuraghazra/github-readme-stats)
 
