@@ -13,12 +13,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ VY7pNw1mDDpYM9V13a7m3NsMlbVfOtpsoU7r5uNKg5A}}
 
           # Options
-          user: Charleebrown
+          user: CharleeBrown
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
-          plugin_introduction: yes
-          plugin_introduction_title: yes
