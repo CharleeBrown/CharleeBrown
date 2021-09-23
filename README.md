@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: Email - Charleebrown22@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Olives! I was able to eat a whole jar by myself as a kid. 
+- ⚡ Fun fact: Candy corn and black licorice are my antithesis.
 
 
 
