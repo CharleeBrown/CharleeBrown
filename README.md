@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## My name is Coleman
-### You can call me Cole. I am a developer in the Chicagoland area. 
+### You can call me Cole. I am a developer in the Greater Chicagoland area. 
 ### My main languages are currently : Javascript, C# (C-Sharp), and Visual Basic
 
 - 📫 How to reach me: Email - Charleebrown22@gmail.com 
