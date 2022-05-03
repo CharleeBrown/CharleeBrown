@@ -4,6 +4,8 @@
 
 - Email - coleman.hallom@outlook.com
 - Pronouns: He/Him
+- Current Project : I'm working on my personal portfolio and a Wordle clone.
+- Current Favorite Language : JavaScript.
 
 
 
