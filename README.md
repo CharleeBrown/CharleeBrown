@@ -13,5 +13,5 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CharleeBrown.visitor-badge) 
 <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
