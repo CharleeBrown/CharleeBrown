@@ -9,8 +9,11 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharleeBrown)](https://github.com/anuraghazra/github-readme-stats)
+![Charlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharleeBrown)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CharleeBrown.visitor-badge) 
 
+
 ![C#](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg)
+![js](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg)
