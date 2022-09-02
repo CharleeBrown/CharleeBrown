@@ -1,6 +1,6 @@
 ### Hi, I'm Cole
 
-### I am a fullstack developer in the Greater Chicagoland area. 
+### I am a full-stack Web Developer located in Chicagoland. 
 
 - Email - coleman.hallom@outlook.com
 - Pronouns: He/Him
