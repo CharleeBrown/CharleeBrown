@@ -1,11 +1,10 @@
 ### Hi, I'm Cole
 
-### I am a full-stack Web Developer located in Chicagoland. 
+### I am a Desktop Developer(C#) and Full-stack Web Developer(MERN) 
 
 - Email - coleman.hallom@outlook.com
 - Pronouns: He/Him
-- Current Project : I'm working on my personal portfolio and a Wordle clone.
-- Current Favorite Language : JavaScript.
+- Current Favorite Language : C-Sharp
 
 
 
