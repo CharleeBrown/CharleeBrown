@@ -1,10 +1,11 @@
 ### Hi, I'm Cole
 
-### I am a Desktop Developer(C#) and Full-stack Web Developer(MERN) 
+### I am a .Net Developer
 
 - Email - coleman.hallom@outlook.com
 - Pronouns: He/Him
 - Current Favorite Language : C-Sharp
+- Current Research Topic: COBOL
 
 
 
