@@ -5,7 +5,6 @@
 - Email - coleman.hallom@outlook.com
 - Pronouns: He/Him
 - Current Favorite Language : C-Sharp
-- Current Research Topic: COBOL
 
 
 
