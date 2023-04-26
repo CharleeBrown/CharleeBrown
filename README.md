@@ -1,10 +1,8 @@
-### Hi, I'm Coleman
-
-### I am a .Net Developer
+### Hi, I'm Coleman, a Software Developer and Data Analyst
 
 - Email - coleman.hallom@outlook.com
 - Pronouns: He/Him
-- Current Favorite Language : C-Sharp
+- Current Favorite Language : SQL, C-Sharp
 
 
 
