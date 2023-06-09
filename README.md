@@ -2,7 +2,7 @@
 
 - Email - coleman.hallom@outlook.com
 - Pronouns: He/Him
-- Current Favorite Language : SQL, C-Sharp
+- Current Favorite Language : C#
 
 
 
