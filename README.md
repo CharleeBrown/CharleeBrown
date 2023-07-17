@@ -1,6 +1,5 @@
 ### Hi, I'm Coleman, a Software Developer and Data Analyst
 
-- Email - coleman.hallom@outlook.com
 - Pronouns: He/Him
 - Current Favorite Language : C#
 - Currently Learning: C
