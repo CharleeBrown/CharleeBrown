@@ -1,4 +1,4 @@
-### Hi, I'm Coleman, a Software Developer and Data Analyst
+### Hi, I'm Coleman, an aspiring Software Developer and Data Analyst with 2 years of self-taught experience 
 
 - Pronouns: He/Him
 - Current Favorite Language : C#
