@@ -1,4 +1,4 @@
-### Hi, I'm Coleman, an aspiring Software Developer and Data Analyst with 2 years of self-taught experience 
+### Hi, I'm Coleman, a self taught Web and Desktop Developer with ~4 years of personal project and small enterprise project experience
 
 - Pronouns: He/Him
 - Current Favorite Language : C#
